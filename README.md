@@ -1,4 +1,4 @@
-Program do zarządzania eksponatami w muzeum, dzięki któremu użytkownik może dodawać, wyświetlać, usuwać, 
+Program służy do zarządzania eksponatami w muzeum. Dzięki niemu użytkownik może dodawać, wyświetlać, usuwać, 
 a także zapisywać i wczytywać eksponaty z plik tekstowego. 
 
 W programie wykorzystane zostały: 

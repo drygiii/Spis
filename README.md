@@ -1,5 +1,5 @@
 Program do zarządzania eksponatami w muzeum, dzięki któremu użytkownik może dodawać, wyświetlać, usuwać, 
-a ta zapisywać i wczytywać eksponaty z plik tekstowego. 
+a także zapisywać i wczytywać eksponaty z plik tekstowego. 
 
 W programie wykorzystane zostały: 
 dziedziczenie, agregacja, konstruktory/idestruktory, polimorfizm, klasa abstrakcyjna oraz zapis danych.
